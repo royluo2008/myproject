@@ -1,2 +1,2 @@
 # myproject
-github study
+github test
